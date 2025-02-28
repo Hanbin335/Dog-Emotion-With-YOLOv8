@@ -1,6 +1,7 @@
 CNN과 YOLOv8을 활용한 실시간 강아지 이모션 인식 시스템
 ---
-![image](https://github.com/user-attachments/assets/43d1acd2-cca6-4682-a0a0-b6cdc407c674)
+![image](https://github.com/user-attachments/assets/49c74c58-be4c-40d3-a106-49e434c9b66c)
+
 
 프로젝트 소개
 ---
